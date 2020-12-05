@@ -1,0 +1,15 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+canvas {
+  background: #222;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+  overflow: -moz-hidden-unscrollable;
+}
